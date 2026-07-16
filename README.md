@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/manvitha209/leetcode/tree/master/0066-plus-one) |
+| [2574-left-and-right-sum-differences](https://github.com/manvitha209/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manvitha209/leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/manvitha209/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

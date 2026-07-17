@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/manvitha209/leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/manvitha209/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/manvitha209/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

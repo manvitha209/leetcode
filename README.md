@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/manvitha209/leetcode/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/manvitha209/leetcode/tree/master/0724-find-pivot-index) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manvitha209/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/manvitha209/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manvitha209/leetcode/tree/master/0258-add-digits) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manvitha209/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/manvitha209/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/manvitha209/leetcode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/manvitha209/leetcode/tree/master/0577-employee-bonus) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/manvitha209/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/manvitha209/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/manvitha209/leetcode/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/manvitha209/leetcode/tree/master/0724-find-pivot-index) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manvitha209/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/manvitha209/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2670-find-the-distinct-difference-array](https://github.com/manvitha209/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manvitha209/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
